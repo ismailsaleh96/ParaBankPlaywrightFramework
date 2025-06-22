@@ -5,7 +5,7 @@ This project is a TypeScript-based Playwright conversion of the ParaBank Seleniu
 - Login and Registration Flows
 - Cucumber BDD Integration
 
-## 📦 Installation
+ Installation
 
 Make sure you have [Node.js](https://nodejs.org/) installed (preferably version 18+).
 
